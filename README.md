@@ -10,7 +10,7 @@
 
 🚀 Constantly learning and exploring new trends and frameworks in the Android development ecosystem.
 
-💡 Strong knowledge of Kotlin, Java, Android SDK, MVVM architecture, Retrofit, Room, and other essential Android libraries and tools.
+💡 Strong knowledge of Java, Android SDK, MVVM architecture, Retrofit, Room, and other essential Android libraries and tools.
 
 🌐 Check out my portfolio: https://www.linkedin.com/in/sagar-gaydhane-202164217
 
